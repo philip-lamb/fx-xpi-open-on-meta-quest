@@ -11,6 +11,6 @@
     "sign": "web-ext sign --source-dir src --artifacts-dir dist --channel listed"
   },
   "devDependencies": {
-    "web-ext": "^8.3.0"
+    "web-ext": "^10.8.0"
   }
 }
